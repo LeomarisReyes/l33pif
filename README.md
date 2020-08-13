@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi! I'm Felipe Martínez
 
-<!--
-**l33pif/l33pif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
 
-Here are some ideas to get you started:
+## CORE QUALIFICATIONS
+• DATABASES MYSQL
+• ANDROID DEVELOPMENT (KOTLIN, JAVA & FLUTTER) 
+• PYTHON
+• JAVA
+• UNITY (2D, 3D & VR) WITH C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## LANGUAGES
+ADVANCED SPANISH
+ADVANCED ENGLISH 
+BASIC GERMAN
+
+

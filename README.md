@@ -1,4 +1,4 @@
-# Hi! I'm Felipe Martínez
+# Hi there! I'm Felipe Martínez <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30">
 
 ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/l33pif/l33pif/blob/master/Images/banner.png" width="1000" height="200">
+<img src="https://github.com/l33pif/l33pif/blob/master/Images/Screen%20Shot%202020-09-17%20at%201.50.50%20AM.png" width="1000" height="300">
 
 
 ### Hi there! I'm Felipe Martínez <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30">

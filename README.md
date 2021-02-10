@@ -7,7 +7,7 @@ ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
 
 # Core Qualifications
 
-<img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Java-blue"> | <img src="https://img.shields.io/badge/-Kotlin-yellowgreen"> | <img src="https://img.shields.io/badge/-Flutter-yellow"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
+<img src="https://img.shields.io/badge/-Python-brightgreen"> | <img src="https://img.shields.io/badge/-Pandas-blue"> | <img src="https://img.shields.io/badge/-Sklearn-yellow"> | <img src="https://img.shields.io/badge/-ETL-orange"> | <img src="https://img.shields.io/badge/-MySQL-lightgrey"> | <img src="https://img.shields.io/badge/-Terminal-orange">
 
 # Softwares, IDE's, OS's
 

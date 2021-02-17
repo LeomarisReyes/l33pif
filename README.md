@@ -11,7 +11,7 @@ ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
 
 # Softwares, IDE's, OS's
 
-<img src="https://img.shields.io/badge/-Android%20Studio-green"> | <img src="https://img.shields.io/badge/-IntelliJ-blue"> | <img src="https://img.shields.io/badge/-VS-orange"> | <img src="https://img.shields.io/badge/-Eclipse-red"> | <img src="https://img.shields.io/badge/-Unity-yellow">
+<img src="https://img.shields.io/badge/-VSCode-brightgreen"> | <img src="https://img.shields.io/badge/-Android%20Studio-green"> | <img src="https://img.shields.io/badge/-IntelliJ-blue"> | <img src="https://img.shields.io/badge/-Eclipse-red"> | <img src="https://img.shields.io/badge/-Unity-yellow">
 
 <img src="https://img.shields.io/badge/-Windows-blue"> | <img src="https://img.shields.io/badge/-MacOS-lightgrey">
 

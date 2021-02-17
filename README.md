@@ -19,6 +19,10 @@ ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
 
 <img src="https://img.shields.io/badge/-Spanish-blue"> | <img src="https://img.shields.io/badge/-English-red">
 
+# YouTube Tutorials
+https://www.youtube.com/channel/UC0ldpwKz6AiOGoQnCzmDTWQ
+
+
 # Contact me
    
 <a href="https://www.linkedin.com/in/l33pif" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="174"></a> | <a href="https://twitter.com/L33pif" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="41" width="174"></a> | <a href="https://www.instagram.com/l33pif" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="41" width="174"></a>

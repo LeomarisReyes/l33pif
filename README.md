@@ -3,7 +3,7 @@
 
 ### Hi there! I'm Felipe Martínez <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30">
 
-ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
+Multidisciplinary data scientist with skills in mathematics, statistics, programming, databases, visualization, classification and prediction models in machine learning.
 
 # Core Qualifications
 

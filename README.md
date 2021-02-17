@@ -20,7 +20,7 @@ ELECTRONIC ENGINEER WITH A PASSION FOR “IT”.
 <img src="https://img.shields.io/badge/-Spanish-blue"> | <img src="https://img.shields.io/badge/-English-red">
 
 # YouTube Tutorials
-https://www.youtube.com/channel/UC0ldpwKz6AiOGoQnCzmDTWQ
+<a href="https://www.youtube.com/channel/UC0ldpwKz6AiOGoQnCzmDTWQ" target="_blank"><img src="https://github.com/l33pif/l33pif/blob/master/Images/Screen%20Shot%202021-02-17%20at%202.39.37%20PM.png" height="59" width="174"></a>
 
 
 # Contact me
